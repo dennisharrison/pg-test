@@ -1,0 +1,79 @@
+2013-09-15 14:50:05.470 HelloCordova[30677:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-15 14:50:05.506 HelloCordova[30677:c07] Resetting plugins due to page load.
+2013-09-15 14:50:05.555 HelloCordova[30677:c07] Finished load of: file:///Users/dennisharrison/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/FE7F2C0C-E806-41D2-9FF4-CAF333DA38B0/HelloCordova.app/www/index.html
+2013-09-15 14:56:18.020 HelloCordova[30890:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-15 14:56:18.063 HelloCordova[30890:c07] Resetting plugins due to page load.
+2013-09-15 14:56:18.116 HelloCordova[30890:c07] Finished load of: file:///Users/dennisharrison/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/4955CF2C-CB55-4F02-A6A1-B99EA0ABDFB2/HelloCordova.app/www/index.html
+2013-09-15 14:56:18.146 HelloCordova[30890:c07] THREAD WARNING: ['Notification'] took '17.812744' ms. Plugin should use a background thread.
+2013-09-15 15:03:18.597 HelloCordova[31086:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-15 15:03:18.633 HelloCordova[31086:c07] Resetting plugins due to page load.
+2013-09-15 15:03:18.686 HelloCordova[31086:c07] Finished load of: file:///Users/dennisharrison/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/4955CF2C-CB55-4F02-A6A1-B99EA0ABDFB2/HelloCordova.app/www/index.html
+2013-09-15 15:03:18.714 HelloCordova[31086:c07] THREAD WARNING: ['Notification'] took '16.380859' ms. Plugin should use a background thread.
+2013-09-15 15:05:34.687 HelloCordova[31276:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-15 15:05:34.721 HelloCordova[31276:c07] Resetting plugins due to page load.
+2013-09-15 15:05:34.786 HelloCordova[31276:c07] Finished load of: file:///Users/dennisharrison/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/4955CF2C-CB55-4F02-A6A1-B99EA0ABDFB2/HelloCordova.app/www/index.html
+2013-09-15 15:05:34.820 HelloCordova[31276:c07] THREAD WARNING: ['Notification'] took '21.995117' ms. Plugin should use a background thread.
+2013-09-15 15:07:22.873 HelloCordova[31454:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-15 15:07:22.907 HelloCordova[31454:c07] Resetting plugins due to page load.
+2013-09-15 15:07:22.965 HelloCordova[31454:c07] Finished load of: file:///Users/dennisharrison/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/4955CF2C-CB55-4F02-A6A1-B99EA0ABDFB2/HelloCordova.app/www/index.html
+2013-09-15 15:07:22.999 HelloCordova[31454:c07] THREAD WARNING: ['Notification'] took '22.636963' ms. Plugin should use a background thread.
+2013-09-15 15:08:01.220 HelloCordova[31638:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-15 15:08:01.254 HelloCordova[31638:c07] Resetting plugins due to page load.
+2013-09-15 15:08:01.311 HelloCordova[31638:c07] Finished load of: file:///Users/dennisharrison/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/4955CF2C-CB55-4F02-A6A1-B99EA0ABDFB2/HelloCordova.app/www/index.html
+2013-09-15 15:08:01.347 HelloCordova[31638:c07] THREAD WARNING: ['Notification'] took '23.700928' ms. Plugin should use a background thread.
+2013-09-15 15:08:34.538 HelloCordova[31817:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-15 15:08:34.572 HelloCordova[31817:c07] Resetting plugins due to page load.
+2013-09-15 15:08:34.625 HelloCordova[31817:c07] Finished load of: file:///Users/dennisharrison/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/4955CF2C-CB55-4F02-A6A1-B99EA0ABDFB2/HelloCordova.app/www/index.html
+2013-09-15 15:08:34.659 HelloCordova[31817:c07] THREAD WARNING: ['Notification'] took '23.252197' ms. Plugin should use a background thread.
+2013-09-15 15:09:01.092 HelloCordova[31994:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-15 15:09:01.126 HelloCordova[31994:c07] Resetting plugins due to page load.
+2013-09-15 15:09:01.185 HelloCordova[31994:c07] Finished load of: file:///Users/dennisharrison/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/4955CF2C-CB55-4F02-A6A1-B99EA0ABDFB2/HelloCordova.app/www/index.html
+2013-09-15 15:09:01.220 HelloCordova[31994:c07] THREAD WARNING: ['Notification'] took '23.087891' ms. Plugin should use a background thread.
+2013-09-15 15:15:42.561 HelloCordova[32186:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-15 15:15:42.595 HelloCordova[32186:c07] Resetting plugins due to page load.
+2013-09-15 15:15:42.651 HelloCordova[32186:c07] Finished load of: file:///Users/dennisharrison/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/4955CF2C-CB55-4F02-A6A1-B99EA0ABDFB2/HelloCordova.app/www/index.html
+2013-09-15 15:15:42.686 HelloCordova[32186:c07] THREAD WARNING: ['Notification'] took '23.379150' ms. Plugin should use a background thread.
+2013-09-15 15:16:21.661 HelloCordova[32363:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-15 15:16:21.695 HelloCordova[32363:c07] Resetting plugins due to page load.
+2013-09-15 15:16:21.754 HelloCordova[32363:c07] Finished load of: file:///Users/dennisharrison/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/4955CF2C-CB55-4F02-A6A1-B99EA0ABDFB2/HelloCordova.app/www/index.html
+2013-09-15 15:16:21.788 HelloCordova[32363:c07] THREAD WARNING: ['Notification'] took '23.229004' ms. Plugin should use a background thread.
+2013-09-15 15:16:45.973 HelloCordova[32540:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-15 15:16:46.007 HelloCordova[32540:c07] Resetting plugins due to page load.
+2013-09-15 15:16:46.061 HelloCordova[32540:c07] Finished load of: file:///Users/dennisharrison/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/4955CF2C-CB55-4F02-A6A1-B99EA0ABDFB2/HelloCordova.app/www/index.html
+2013-09-15 15:16:46.096 HelloCordova[32540:c07] THREAD WARNING: ['Notification'] took '23.991943' ms. Plugin should use a background thread.
+2013-09-15 15:17:31.354 HelloCordova[32721:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-15 15:17:31.388 HelloCordova[32721:c07] Resetting plugins due to page load.
+2013-09-15 15:17:31.447 HelloCordova[32721:c07] Finished load of: file:///Users/dennisharrison/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/4955CF2C-CB55-4F02-A6A1-B99EA0ABDFB2/HelloCordova.app/www/index.html
+2013-09-15 15:17:31.482 HelloCordova[32721:c07] THREAD WARNING: ['Notification'] took '24.373047' ms. Plugin should use a background thread.
+2013-09-15 15:20:48.117 HelloCordova[32908:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-15 15:20:48.152 HelloCordova[32908:c07] Resetting plugins due to page load.
+2013-09-15 15:20:48.211 HelloCordova[32908:c07] Finished load of: file:///Users/dennisharrison/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/4955CF2C-CB55-4F02-A6A1-B99EA0ABDFB2/HelloCordova.app/www/index.html
+2013-09-15 15:20:48.247 HelloCordova[32908:c07] THREAD WARNING: ['Notification'] took '24.640869' ms. Plugin should use a background thread.
+2013-09-15 15:21:41.428 HelloCordova[33089:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-15 15:21:41.468 HelloCordova[33089:c07] Resetting plugins due to page load.
+2013-09-15 15:21:41.515 HelloCordova[33089:c07] Finished load of: file:///Users/dennisharrison/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/4955CF2C-CB55-4F02-A6A1-B99EA0ABDFB2/HelloCordova.app/www/index.html
+2013-09-15 15:23:11.631 HelloCordova[33272:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-15 15:23:11.665 HelloCordova[33272:c07] Resetting plugins due to page load.
+2013-09-15 15:23:11.720 HelloCordova[33272:c07] Finished load of: file:///Users/dennisharrison/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/4955CF2C-CB55-4F02-A6A1-B99EA0ABDFB2/HelloCordova.app/www/index.html
+2013-09-15 15:23:13.911 HelloCordova[33272:c07] THREAD WARNING: ['Notification'] took '26.596191' ms. Plugin should use a background thread.
+2013-09-15 15:31:46.246 HelloCordova[33497:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-15 15:31:46.280 HelloCordova[33497:c07] Resetting plugins due to page load.
+2013-09-15 15:31:46.329 HelloCordova[33497:c07] Finished load of: file:///Users/dennisharrison/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/4955CF2C-CB55-4F02-A6A1-B99EA0ABDFB2/HelloCordova.app/www/index.html
+2013-09-15 15:33:10.270 HelloCordova[33689:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-15 15:33:10.304 HelloCordova[33689:c07] Resetting plugins due to page load.
+2013-09-15 15:33:10.359 HelloCordova[33689:c07] Finished load of: file:///Users/dennisharrison/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/4955CF2C-CB55-4F02-A6A1-B99EA0ABDFB2/HelloCordova.app/www/index.html
+2013-09-15 15:33:11.404 HelloCordova[33689:c07] THREAD WARNING: ['Notification'] took '30.439209' ms. Plugin should use a background thread.
+2013-09-15 15:33:53.933 HelloCordova[33875:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-15 15:33:53.963 HelloCordova[33875:c07] Resetting plugins due to page load.
+2013-09-15 15:33:54.008 HelloCordova[33875:c07] Finished load of: file:///Users/dennisharrison/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/4955CF2C-CB55-4F02-A6A1-B99EA0ABDFB2/HelloCordova.app/www/index.html
+2013-09-15 15:34:46.964 HelloCordova[34063:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-15 15:34:46.999 HelloCordova[34063:c07] Resetting plugins due to page load.
+2013-09-15 15:34:47.048 HelloCordova[34063:c07] Finished load of: file:///Users/dennisharrison/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/4955CF2C-CB55-4F02-A6A1-B99EA0ABDFB2/HelloCordova.app/www/index.html
+2013-09-15 15:35:35.698 HelloCordova[34252:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-15 15:35:35.725 HelloCordova[34252:c07] Resetting plugins due to page load.
+2013-09-15 15:35:35.775 HelloCordova[34252:c07] Finished load of: file:///Users/dennisharrison/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/4955CF2C-CB55-4F02-A6A1-B99EA0ABDFB2/HelloCordova.app/www/index.html
+2013-09-15 15:36:25.827 HelloCordova[34440:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-15 15:36:25.861 HelloCordova[34440:c07] Resetting plugins due to page load.
+2013-09-15 15:36:25.910 HelloCordova[34440:c07] Finished load of: file:///Users/dennisharrison/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/4955CF2C-CB55-4F02-A6A1-B99EA0ABDFB2/HelloCordova.app/www/index.html
+2013-09-15 15:36:26.994 HelloCordova[34440:c07] Camera.getPicture: source type 1 not available.
+2013-09-15 15:36:29.520 HelloCordova[34440:c07] THREAD WARNING: ['Camera'] took '2528.543945' ms. Plugin should use a background thread.
